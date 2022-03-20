@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=underdarks&show_icons=true&theme=algolia)
 
+</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underdarks)](https://github.com/underdarks/github-readme-stats)
 
